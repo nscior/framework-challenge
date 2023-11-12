@@ -18,6 +18,7 @@ h2 {
     margin: 0 auto;
     float: none;
     margin-bottom: 10px;
+    box-shadow: 0.2px 0.2px 5px darkslategray;
 }
 
 .btn-toolbar {
@@ -25,4 +26,8 @@ h2 {
     float: none;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+button {
+    box-shadow: 0.2px 0.2px 5px darkslategray;
 }
